@@ -1,0 +1,24 @@
+/*GEAR_PROJECT@CSS*/  /*CREDITED_TO_CAMERON_WARNER@STARBUCKS.COFFEE.ISH@(gmail.com/google.com)*/
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Roboto|Staatliches|Thasadith');
+
+h1{
+color: 33ff77;
+font-family: Staatliches;
+font-size: 2.5em;
+}
+h2{
+color: 33ff77;
+font-family: Montserrat;
+font-size: 2.125em;
+}
+h3{
+color: 33ff77;
+font-family: Thasadith;
+font-size: 1.875em;
+font-weight: bold;
+}
+p{
+color: 33ff77;
+font-size: 1.5625em;
+font-family: Roboto;
+}
