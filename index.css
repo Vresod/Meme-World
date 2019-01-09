@@ -25,9 +25,9 @@ p {
 body {
 	background-color: #696969;
 	text-align: center;
-	float: left;
 }
 img {
 	width: 20%;
 	height: 40%;
+	float: left;
 }
