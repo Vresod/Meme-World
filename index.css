@@ -25,5 +25,5 @@ p {
 body {
 	background-color: #696969;
 	text-align: center;
-	width: 50%;
+	float: left;
 }
