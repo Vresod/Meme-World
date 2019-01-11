@@ -37,13 +37,17 @@ img {
 }
 a {
 	color: #33ff77;
-	font-size: 1.875 em;	
+	font-size: 1.875 em;
+	font-family: Roboto;
+
 }
 ul {
 	color: #33ff77;
-	font-size: 1.875 em;	
+	font-size: 1.875 em;
+	font-family: Roboto;
 }
 li {
 	color: #33ff77;
 	font-size: 1.875 em;	
+	font-family: Roboto;
 }
