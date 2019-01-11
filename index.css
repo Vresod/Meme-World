@@ -25,7 +25,7 @@ p {
 	font-size: 1.5625 em;
 	font-family: Roboto;
 	text-indent: 7.5%;
-	text-align: right;
+	text-align: left;
 }
 body {
 	background-color: #696969;
@@ -34,4 +34,8 @@ img {
 	width: 30%;
 	height: 35%;
 	float: right;
+}
+a {
+	color: #33ff77;
+	font-size: 1.875 em;	
 }
